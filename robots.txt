@@ -1,0 +1,3 @@
+User-agent: * 
+Allow: / 
+Sitemap: https://idr.pp.ua/sitemap.xml 
